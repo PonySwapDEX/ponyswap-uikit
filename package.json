@@ -1,6 +1,6 @@
 {
   "name": "@ponyswap/uikit",
-  "version": "0.1.17",
+  "version": "0.1.1",
   "description": "Set of UI components for pony projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -8,7 +8,10 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/ponyswap/pony-uikit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ponyswap/pony-uikit.git"
+  },
   "license": "MIT",
   "scripts": {
     "build": "rm -rf ./dist && rollup -c && tsc -d --emitDeclarationOnly --declarationDir dist",
@@ -81,5 +84,10 @@
     "lodash": "^4.17.20",
     "react-transition-group": "^4.4.1",
     "styled-system": "^5.1.5"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/PonySwapDEX/ponyswap-uikit/issues"
+  },
+  "homepage": "https://github.com/PonySwapDEX/ponyswap-uikit#readme",
+  "author": ""
 }
