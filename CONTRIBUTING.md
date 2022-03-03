@@ -1,7 +1,7 @@
 # Contributing to the Pony ecosystem
 
 Thanks for taking the time to contribute !
-You can start by reading our [Contribution guidelines](https://docs.ponyswap.com/code/contributing) first.
+You can start by reading our [Contribution guidelines](https://docs.ponyswap.org/code/contributing) first.
 
 ## Setup
 

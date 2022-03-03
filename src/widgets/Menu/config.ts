@@ -103,7 +103,7 @@ export const links = [
       },
       {
         label: "Docs",
-        href: "https://docs.ponyswap.com",
+        href: "https://docs.ponyswap.org",
       },
       {
         label: "Blog",
@@ -122,7 +122,7 @@ export const socials = [
   {
     label: "Docs",
     icon: "GitbookIcon",
-    href: "https://docs.ponyswap.com",
+    href: "https://docs.ponyswap.org",
   },
   // {
   //   label: "Medium",

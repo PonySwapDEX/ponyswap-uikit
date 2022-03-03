@@ -397,7 +397,7 @@ it("renders ConnectModal correctly", () => {
           <a
             class="sc-bdvvtL sc-gsDKAQ hDDqUa kuhloL sc-iqseJM kXQwcx"
             color="primary"
-            href="https://docs.ponyswap.com/guides/faq#how-do-i-set-up-my-wallet-on-binance-smart-chain"
+            href="https://docs.ponyswap.org/guides/faq#how-do-i-set-up-my-wallet-on-binance-smart-chain"
             rel="noreferrer noopener"
             target="_blank"
           >
