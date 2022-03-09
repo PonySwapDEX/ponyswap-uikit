@@ -114,25 +114,25 @@ export const links = [
 ];
 
 export const socials = [
-  // {
-  //   label: "Github",
-  //   icon: "GithubIcon",
-  //   href: "https://github.com/ponyswap",
-  // },
+  {
+    label: "Github",
+    icon: "GithubIcon",
+    href: "https://github.com/ponyswapdex",
+  },
   {
     label: "Docs",
     icon: "GitbookIcon",
     href: "https://docs.ponyswap.org",
   },
   // {
-  //   label: "Medium",
-  //   icon: "MediumIcon",
+  //   label: "Discord",
+  //   icon: "DiscordIcon",
   //   href: "https://ponyswap.medium.com",
   // },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/PonySwap",
+    href: "https://twitter.com/ponyswapDEX",
   },
   {
     label: "Telegram",
@@ -140,7 +140,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/PonySwap",
+        href: "https://t.me/PonySwapEN",
       },
       {
         label: "Announcements",
